@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 03/01/2018 07:38
+  	Creation date: 28/07/2016 22:45
   	*/
 
 @font-face {
@@ -23,13 +23,14 @@
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
-  	font-family: Flaticon;
-    font-size: 50px;
-	font-style: normal;
-	margin-left: 0px;
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
 }
 
-.flaticon-canape:before { content: "\f100"; }
-.flaticon-dinner:before { content: "\f101"; }
-.flaticon-desert:before { content: "\f102"; }
-.flaticon-coffee:before { content: "\f103"; }
+.flaticon-calories:before { content: "\f101"; }
+.flaticon-drink:before { content: "\f102"; }
+.flaticon-burger:before { content: "\f104"; }
+.flaticon-food:before { content: "\f106"; }
+.flaticon-protein:before { content: "\f109"; }
+.flaticon-carbohydrate:before { content: "\f10e"; }
